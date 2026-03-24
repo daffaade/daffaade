@@ -7,7 +7,7 @@ Interested in building interactive and modern web applications
 ---
 
 ##  Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,java,c,mysql)
+![Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,java,c,mysql)
 
 ---
 
