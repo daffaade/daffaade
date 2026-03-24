@@ -10,9 +10,8 @@ Interested in building interactive and modern web applications
 ![Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,java,c,mysql)
 
 ---
-
-##  GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=daffaade&show_icons=true&theme=radical)
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaade&layout=compact&theme=radical)
 
 ---
 
