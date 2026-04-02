@@ -1,4 +1,4 @@
-# Hi, I'm Ade 👋
+# Hi, I'm Ade 
 
 Second-year Computer Science student  
 Currently focusing on learning Frontend Development (JavaScript & React)  
