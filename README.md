@@ -1,7 +1,7 @@
 # Hi, I'm Ade 👋
 
 Computer Science student  
-Currently focusing on **Artificial Intelligence & Machine Learning**  
+Currently focusing on **Learning Artificial Intelligence & Machine Learning**  
 Interested in building **AI-powered applications**, **LLM workflows**, and modern web apps  
 
 ---
