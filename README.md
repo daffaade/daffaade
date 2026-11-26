@@ -1,4 +1,4 @@
-# Hi, I'm Ade 👋
+# Hi, I'm Ade 
 
 Computer Science student  
 Currently focusing on **Learning Artificial Intelligence & Machine Learning**  
