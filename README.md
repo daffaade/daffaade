@@ -2,7 +2,7 @@
 
 Computer Science student  
 Currently focusing on **Learning Artificial Intelligence & Machine Learning**  
-Interested in building **AI-powered applications**, **LLM workflows**, and modern web apps  
+Interested in building **AI-powered applications**, **LLM workflows**, and modern web apps. 
 
 ---
 
